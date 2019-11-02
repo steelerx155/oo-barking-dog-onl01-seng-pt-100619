@@ -22,7 +22,7 @@ class Dog
   end
   
   def name=(the_dogs_name)
-  this_dogs_name = the_dogs_name
+  @name = the_dogs_name
   end
 
     def bark 
