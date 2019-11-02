@@ -17,7 +17,7 @@
 
 class Dog 
 
-  def name= (the_dogs_name)
+  def name=(the_dogs_name)
   this_dogs_name = the_dogs_name
   end
 
